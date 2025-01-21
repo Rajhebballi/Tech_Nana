@@ -28,3 +28,4 @@ public class GeeksForGeeks {
         printPattern(n);
     }
 }
+ok
