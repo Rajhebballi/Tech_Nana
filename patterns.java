@@ -1,5 +1,3 @@
-// Java Program to print pattern
-// Number-increasing reverse pyramid
 import java.util.*;
 import java.util.Scanner;
 
