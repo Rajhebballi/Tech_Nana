@@ -2,7 +2,6 @@ import java.util.*;
 import java.util.Scanner;
 
 public class GeeksForGeeks {
-    // Function to demonstrate pattern
     public static void printPattern(int n)
     {
         int i, j;
