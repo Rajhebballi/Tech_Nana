@@ -24,6 +24,7 @@ public class GeeksForGeeks {
     {
         int n = 6;
         printPattern(n);
-    }
-}
+print ln 
+			print ln     }
+
 ok
